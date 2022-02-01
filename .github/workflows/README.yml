@@ -31,7 +31,7 @@ jobs:
           plugin_languages_limit: 5
           plugin_languages_skipped: gracefullight/gracefullight.github.io,gracefullight/blog,gracefullight/flutter-study
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # plugin_isocalendar_duration: full-year
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://gracefullight.dev

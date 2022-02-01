@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/gracefullight)
+![Metrics](https://metrics.lecoq.io/gracefullight?template=terminal&isocalendar=1&stars=1&people=1&pagespeed=1&rss=1&notable=1&isocalendar.duration=full-year&stars.limit=4&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&notable.from=organization&notable.repositories=false&notable.indepth=false&pagespeed.url=https%3A%2F%2Fgracefullight.dev&pagespeed.detailed=false&pagespeed.screenshot=false&rss.source=https%3A%2F%2Fgracefullight.dev%2Ffeed&rss.limit=4&config.timezone=Asia%2FSeoul)
 
 <!--
 **gracefullight/gracefullight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

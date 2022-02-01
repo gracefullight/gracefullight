@@ -24,7 +24,7 @@ jobs:
           # Options
           user: gracefullight
           template: terminal
-          base: header, activity, repositories, metadata
+          base: header, activity
           config_display: large
           config_timezone: Asia/Seoul
           plugin_languages: yes

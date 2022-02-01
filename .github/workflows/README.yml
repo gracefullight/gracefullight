@@ -28,10 +28,10 @@ jobs:
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_notable: yes
-          plugin_notable_from: organization
           plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://gracefullight.dev
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28

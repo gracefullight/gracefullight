@@ -1,0 +1,43 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: gracefullight
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Seoul
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://gracefullight.dev
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://gracefullight.dev/feed
+          plugin_stars: yes
+          plugin_stars_limit: 4

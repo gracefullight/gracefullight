@@ -38,21 +38,21 @@
   followed by <b>40</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  626</b> commits
+  <b>  627</b> commits
   <b>   21</b> pull requests reviewed
   <b>   23</b> pull requests opened
   <b>    7</b> issues opened
   <b>   57</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>DART        </b> [#########           ] 43.12%
-<b>JAVASCRIPT  </b> [#######             ] 32.93%
-<b>TYPESCRIPT  </b> [####                ] 17.02%
-<b>JAVA        </b> [#                   ] 3.51 %
-<b>VUE         </b> [#                   ] 3.42 %
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JAVASCRIPT  </b> [############        ] 56.84%
+<b>TYPESCRIPT  </b> [######              ] 29.37%
+<b>JAVA        </b> [##                  ] 6.06 %
+<b>VUE         </b> [##                  ] 5.90 %
+<b>HTML        </b> [#                   ] 1.83 %
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://gracefullight.dev</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://gracefullight.dev
-<b>X-Performance</b>: 90%
+<b>X-Performance</b>: 60%
 <b>X-Accessibility</b>: 87%
 <b>X-Best-Practices</b>: 92%
 <b>X-SEO</b>: 100%

@@ -52,8 +52,8 @@
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://gracefullight.dev</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://gracefullight.dev
-<b>X-Performance</b>: 95%
-<b>X-Accessibility</b>: 87%
+<b>X-Performance</b>: 97%
+<b>X-Accessibility</b>: 86%
 <b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 100%
 </div>

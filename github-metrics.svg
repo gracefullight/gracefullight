@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Eunkwang Shin</b> registered=6y, uid=3683, gid=3
-  contributed to 17 repositories <b><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span></b>
+  contributed to 17 repositories <b><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>41</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
@@ -52,9 +52,9 @@
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://gracefullight.dev</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://gracefullight.dev
-<b>X-Performance</b>: 88%
+<b>X-Performance</b>: 91%
 <b>X-Accessibility</b>: 86%
-<b>X-Best-Practices</b>: 92%
+<b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 100%
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ ncal -MB5</div><div class="stdout"><div class="isocalendar">
@@ -947,14 +947,14 @@
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g><g transform="translate(42.5, 25)">
                     <g transform="translate(0, 3.4)">
-                      <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.6 0,3.6 z"/>
-                      <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.6 1.7,4.6 z"/>
+                      <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.6 0,3.6 z"/>
+                      <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.6 1.7,4.6 z"/>
                     </g>
                     <g transform="translate(-1.7, 4)">
-                      <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
-                      <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
+                      <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
+                      <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
                     </g>
                     <g transform="translate(-3.4, 6.6)">
                       <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -962,17 +962,22 @@
                       <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4 1.7,3.4 z"/>
                     </g>
                     <g transform="translate(-5.1, 7.4)">
-                      <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6 0,2.6 z"/>
-                      <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6 1.7,3.6 z"/>
+                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6 0,2.6 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6 1.7,3.6 z"/>
                     </g>
                     <g transform="translate(-6.8, 10)">
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-8.5, 6)">
+                      <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,7 0,6 z"/>
+                      <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,6 1.7,7 z"/>
                     </g></g></g></svg></div>
-<b>    0</b> consecutive days with commits
-<b>~2.08</b> commits per day in average
+<b>    1</b> consecutive day with commits
+<b>~2.20</b> commits per day in average
 </div>
 
 

@@ -35,7 +35,7 @@
 
 <pre><div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Eunkwang Shin</b> registered=7y, uid=3683, gid=3
   contributed to 18 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
-  followed by <b>41</b> users
+  followed by <b>40</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
   <b>  542</b> commits
@@ -52,7 +52,7 @@
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://gracefullight.dev</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://gracefullight.dev
-<b>X-Performance</b>: 93%
+<b>X-Performance</b>: 91%
 <b>X-Accessibility</b>: 86%
 <b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 100%

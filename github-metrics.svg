@@ -34,25 +34,25 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Eunkwang Shin</b> registered=7y, uid=3683, gid=2
-  contributed to 14 repositories <b><span style="color:#216e39">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 14 repositories <b><span style="color:#216e39">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span></b>
   followed by <b>45</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  490</b> commits
+  <b>  501</b> commits
   <b>    0</b> pull requests reviewed
   <b>    3</b> pull requests opened
   <b>   14</b> issues opened
   <b>   62</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [##########          ] 47.10%
-<b>JAVASCRIPT  </b> [########            ] 39.89%
-<b>HTML        </b> [#                   ] 4.98 %
-<b>JAVA        </b> [#                   ] 4.07 %
-<b>VUE         </b> [#                   ] 3.96 %
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [##########          ] 49.06%
+<b>JAVASCRIPT  </b> [########            ] 38.44%
+<b>HTML        </b> [#                   ] 4.79 %
+<b>JAVA        </b> [#                   ] 3.91 %
+<b>VUE         </b> [#                   ] 3.81 %
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://gracefullight.dev</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://gracefullight.dev
-<b>X-Performance</b>: 59%
+<b>X-Performance</b>: 64%
 <b>X-Accessibility</b>: 88%
 <b>X-Best-Practices</b>: 92%
 <b>X-SEO</b>: 92%

@@ -34,21 +34,21 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Eunkwang Shin</b> registered=8y, uid=3683, gid=2
-  contributed to 17 repositories <b><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span></b>
+  contributed to 17 repositories <b><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span></b>
   followed by <b>61</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1386</b> commits
+  <b> 1391</b> commits
   <b>    0</b> pull requests reviewed
   <b>    3</b> pull requests opened
-  <b>   23</b> issues opened
-  <b>   79</b> issue comments
+  <b>   26</b> issues opened
+  <b>   82</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [###############     ] 74.09%
-<b>JAVASCRIPT  </b> [#####               ] 20.33%
-<b>HTML        </b> [#                   ] 2.76 %
-<b>JAVA        </b> [#                   ] 2.19 %
-<b>SHELL       </b> [#                   ] 0.63 %
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [###############     ] 74.76%
+<b>JAVASCRIPT  </b> [####                ] 19.80%
+<b>HTML        </b> [#                   ] 2.69 %
+<b>JAVA        </b> [#                   ] 2.13 %
+<b>SHELL       </b> [#                   ] 0.62 %
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">

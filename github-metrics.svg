@@ -34,14 +34,14 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Eunkwang Shin</b> registered=8y, uid=3683, gid=2
-  contributed to 19 repositories <b><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span></b>
+  contributed to 19 repositories <b><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span></b>
   followed by <b>61</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1741</b> commits
+  <b> 1742</b> commits
   <b>    0</b> pull requests reviewed
   <b>    3</b> pull requests opened
-  <b>   42</b> issues opened
+  <b>   48</b> issues opened
   <b>  102</b> issue comments
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [################    ] 79.27%
@@ -963,8 +963,13 @@
                       <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.444444444444445 0,3.444444444444444 z"/>
                       <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.444444444444444 1.7,4.444444444444445 z"/>
+                    </g>
+                    <g transform="translate(-8.5, 9.88888888888889)">
+                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.111111111111111 0,2.111111111111111 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.111111111111111 1.7,3.111111111111111 z"/>
                     </g></g></g></svg></div>
-<b>  180</b> consecutive days with commits
+<b>  181</b> consecutive days with commits
 <b>~5.96</b> commits per day in average
 </div>
 

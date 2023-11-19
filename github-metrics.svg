@@ -34,18 +34,18 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Eunkwang Shin</b> registered=8y, uid=3683, gid=2
-  contributed to 20 repositories <b><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span></b>
+  contributed to 20 repositories <b><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span></b>
   followed by <b>62</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1811</b> commits
+  <b> 1816</b> commits
   <b>    0</b> pull requests reviewed
   <b>    3</b> pull requests opened
   <b>   78</b> issues opened
   <b>  110</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#################   ] 80.20%
-<b>JAVASCRIPT  </b> [####                ] 15.68%
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#################   ] 80.21%
+<b>JAVASCRIPT  </b> [####                ] 15.67%
 <b>HTML        </b> [#                   ] 2.04 %
 <b>JAVA        </b> [#                   ] 1.61 %
 <b>SHELL       </b> [#                   ] 0.47 %

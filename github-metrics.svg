@@ -38,9 +38,9 @@
   followed by <b>75</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 3442</b> commits
+  <b> 3443</b> commits
   <b>    1</b> pull request reviewed
-  <b>    1</b> pull request opened
+  <b>    2</b> pull requests opened
   <b>   81</b> issues opened
   <b>  125</b> issue comments
 </div>

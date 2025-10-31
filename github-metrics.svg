@@ -34,19 +34,19 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Eunkwang Shin</b> registered=10y, uid=3683, gid=3
-  contributed to 15 repositories <b><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#03001c">#</span><span style="color:#03001c">#</span><span style="color:#fe9600">#</span><span style="color:#ffc501">#</span><span style="color:#fe9600">#</span><span style="color:#03001c">#</span><span style="color:#fe9600">#</span><span style="color:#ffee4a">#</span><span style="color:#ffc501">#</span><span style="color:#fe9600">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 15 repositories <b><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#03001c">#</span><span style="color:#03001c">#</span><span style="color:#fe9600">#</span><span style="color:#ffc501">#</span><span style="color:#fe9600">#</span><span style="color:#03001c">#</span><span style="color:#fe9600">#</span><span style="color:#ffee4a">#</span><span style="color:#ffc501">#</span><span style="color:#fe9600">#</span><span style="color:#ffc501">#</span></b>
   followed by <b>99</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 3653</b> commits
+  <b> 3683</b> commits
   <b>   58</b> pull requests reviewed
   <b>   64</b> pull requests opened
   <b>    5</b> issues opened
   <b>  210</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [##############      ] 69.88%
-<b>PYTHON      </b> [#####               ] 23.11%
-<b>JAVASCRIPT  </b> [##                  ] 5.04 %
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [##############      ] 69.80%
+<b>PYTHON      </b> [#####               ] 23.19%
+<b>JAVASCRIPT  </b> [##                  ] 5.03 %
 <b>SHELL       </b> [#                   ] 1.29 %
 <b>HTML        </b> [#                   ] 0.69 %
 </div>

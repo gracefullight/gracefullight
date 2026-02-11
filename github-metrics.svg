@@ -34,21 +34,21 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Eunkwang Shin</b> registered=10y, uid=3683, gid=7
-  contributed to 26 repositories <b><span style="color:#216e39">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span></b>
+  contributed to 28 repositories <b><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span></b>
   followed by <b>109</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 5691</b> commits
+  <b> 5722</b> commits
   <b>   63</b> pull requests reviewed
   <b>   94</b> pull requests opened
   <b>    4</b> issues opened
   <b>  274</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [################    ] 79.84%
-<b>PYTHON      </b> [###                 ] 14.53%
-<b>DART        </b> [#                   ] 3.03 %
-<b>JAVASCRIPT  </b> [#                   ] 2.01 %
-<b>HCL         </b> [#                   ] 0.59 %
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [################    ] 79.06%
+<b>PYTHON      </b> [###                 ] 14.39%
+<b>DART        </b> [#                   ] 3.00 %
+<b>JAVASCRIPT  </b> [#                   ] 1.99 %
+<b>SWIFT       </b> [#                   ] 1.57 %
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
@@ -983,8 +983,13 @@
                       <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.037037037037037 0,4.037037037037037 z"/>
                       <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.037037037037037 1.7,5.037037037037037 z"/>
+                    </g>
+                    <g transform="translate(-3.4, 6.518518518518519)">
+                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4814814814814814 0,2.4814814814814814 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4814814814814814 1.7,3.4814814814814814 z"/>
                     </g></g></g></svg></div>
-<b>  184</b> consecutive days with commits
+<b>  185</b> consecutive days with commits
 <b>~19.68</b> commits per day in average
 </div>
 

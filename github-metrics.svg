@@ -38,17 +38,17 @@
   followed by <b>109</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 5938</b> commits
+  <b> 5939</b> commits
   <b>   63</b> pull requests reviewed
   <b>   96</b> pull requests opened
   <b>    4</b> issues opened
   <b>  277</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [################    ] 79.06%
-<b>PYTHON      </b> [###                 ] 14.39%
-<b>DART        </b> [#                   ] 3.00 %
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [################    ] 79.18%
+<b>PYTHON      </b> [###                 ] 14.41%
+<b>DART        </b> [#                   ] 3.01 %
 <b>JAVASCRIPT  </b> [#                   ] 1.99 %
-<b>SWIFT       </b> [#                   ] 1.57 %
+<b>SWIFT       </b> [#                   ] 1.42 %
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">

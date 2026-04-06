@@ -34,15 +34,15 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Eunkwang Shin</b> registered=11y, uid=3683, gid=8
-  contributed to 42 repositories <b><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span></b>
-  followed by <b>116</b> users
+  contributed to 42 repositories <b><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span></b>
+  followed by <b>117</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 7134</b> commits
-  <b>   73</b> pull requests reviewed
-  <b>  165</b> pull requests opened
-  <b>    4</b> issues opened
-  <b>  315</b> issue comments
+  <b> 7141</b> commits
+  <b>   72</b> pull requests reviewed
+  <b>  164</b> pull requests opened
+  <b>    3</b> issues opened
+  <b>  316</b> issue comments
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#############       ] 60.78%
 <b>PYTHON      </b> [######              ] 29.97%
@@ -973,9 +973,14 @@
                       <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9272727272727272 0,1.9272727272727272 z"/>
                       <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9272727272727272 1.7,2.9272727272727272 z"/>
+                    </g></g><g transform="translate(44.199999999999996, 26)">
+                    <g transform="translate(0, 3.2727272727272725)">
+                      <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.727272727272727 0,3.727272727272727 z"/>
+                      <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.727272727272727 1.7,4.727272727272727 z"/>
                     </g></g></g></svg></div>
-<b>  182</b> consecutive days with commits
-<b>~26.80</b> commits per day in average
+<b>  183</b> consecutive days with commits
+<b>~27.20</b> commits per day in average
 </div>
 
 

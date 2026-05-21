@@ -38,7 +38,7 @@
   followed by <b>118</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 8147</b> commits
+  <b> 8152</b> commits
   <b>   80</b> pull requests reviewed
   <b>  177</b> pull requests opened
   <b>    3</b> issues opened
@@ -989,10 +989,10 @@
                       <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.009090909090909 0,2.009090909090909 z"/>
                       <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.009090909090909 1.7,3.009090909090909 z"/>
                     </g>
-                    <g transform="translate(-5.1, 8.290909090909091)">
+                    <g transform="translate(-5.1, 8.263636363636364)">
                       <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.709090909090909 0,1.709090909090909 z"/>
-                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.709090909090909 1.7,2.709090909090909 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7363636363636363 0,1.7363636363636363 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7363636363636363 1.7,2.7363636363636363 z"/>
                     </g></g></g></svg></div>
 <b>  186</b> consecutive days with commits
 <b>~33.94</b> commits per day in average

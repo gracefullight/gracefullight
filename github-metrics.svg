@@ -38,15 +38,15 @@
   followed by <b>124</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>13799</b> commits
+  <b>13866</b> commits
   <b>   76</b> pull requests reviewed
-  <b>  659</b> pull requests opened
+  <b>  671</b> pull requests opened
   <b>    7</b> issues opened
   <b>  312</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#################   ] 81.20%
-<b>PYTHON      </b> [###                 ] 13.05%
-<b>DART        </b> [#                   ] 2.75 %
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#################   ] 81.31%
+<b>PYTHON      </b> [###                 ] 12.98%
+<b>DART        </b> [#                   ] 2.73 %
 <b>JAVASCRIPT  </b> [#                   ] 1.59 %
 <b>SHELL       </b> [#                   ] 1.40 %
 </div>

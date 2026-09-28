@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="717" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="628" class="">
   
 
   <defs><style>@font-face {
@@ -38,18 +38,13 @@
   followed by <b>123</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>15534</b> commits
+  <b>15542</b> commits
   <b>   68</b> pull requests reviewed
-  <b>  800</b> pull requests opened
+  <b>  801</b> pull requests opened
   <b>    9</b> issues opened
   <b>  321</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [################    ] 78.59%
-<b>PYTHON      </b> [####                ] 15.96%
-<b>DART        </b> [#                   ] 2.52 %
-<b>SWIFT       </b> [#                   ] 1.65 %
-<b>SHELL       </b> [#                   ] 1.29 %
-</div>
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"></div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
               

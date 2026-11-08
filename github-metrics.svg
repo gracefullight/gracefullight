@@ -38,17 +38,17 @@
   followed by <b>123</b> users
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>18969</b> commits
-  <b>   68</b> pull requests reviewed
+  <b>18943</b> commits
+  <b>   67</b> pull requests reviewed
   <b>  859</b> pull requests opened
   <b>   13</b> issues opened
   <b>  323</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#############       ] 60.77%
-<b>HTML        </b> [#####               ] 21.24%
-<b>PYTHON      </b> [###                 ] 14.65%
+<div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#############       ] 61.15%
+<b>HTML        </b> [#####               ] 21.26%
+<b>PYTHON      </b> [###                 ] 14.21%
 <b>DART        </b> [#                   ] 2.05 %
-<b>SHELL       </b> [#                   ] 1.30 %
+<b>SHELL       </b> [#                   ] 1.33 %
 </div>
 <div class="stdin"><span class="ps1-path">gracefullight@metrics</span>:<span class="ps1-location">~</span>$ ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
@@ -924,15 +924,15 @@
                       <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4343891402714934 0,1.4343891402714932 z"/>
                       <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4343891402714932 1.7,2.4343891402714934 z"/>
                     </g>
-                    <g transform="translate(-6.8, 9.782805429864254)">
+                    <g transform="translate(-6.8, 9.76923076923077)">
                       <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2171945701357467 0,1.2171945701357467 z"/>
-                      <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2171945701357467 1.7,2.2171945701357467 z"/>
+                      <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.230769230769231 0,1.2307692307692308 z"/>
+                      <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2307692307692308 1.7,2.230769230769231 z"/>
                     </g>
-                    <g transform="translate(-8.5, 9.683257918552037)">
+                    <g transform="translate(-8.5, 9.696832579185521)">
                       <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3167420814479636 0,2.3167420814479636 z"/>
-                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3167420814479636 1.7,3.3167420814479636 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3031674208144794 0,2.3031674208144794 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3031674208144794 1.7,3.3031674208144794 z"/>
                     </g>
                     <g transform="translate(-10.2, 11.823529411764707)">
                       <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
